@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: #212121;
+}
+    
+section{
+    width: 90%;
+    height: auto;
+    background-color: #272c34;
+    border-radius: 20px;
+    box-shadow: ;
+    
+}
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1rem;
+    color: white;
+    font-size: 1.5rem;
+    
+
+}
+span{
+    font-size: 1.2rem;
+}

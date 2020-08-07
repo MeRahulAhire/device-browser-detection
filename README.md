@@ -4,6 +4,6 @@
 
 ### Watch the demonstration here 👇🏼
 
-# Usage ➡
+### Usage ➡
 
 Download Zip or install via `git clone` and the run `index.html` in your browser
